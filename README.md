@@ -18,7 +18,7 @@ HTMLCOINCORE includes a Command Line Interface (CLI) for managing, configuring a
 htmlcoincore-node create -d <data-dir> mynode
 cd mynode
 htmlcoincore-node install <service>
-htmlcoincore-node install https://github.com/yourname/helloworld
+htmlcoincore-node install https://github.com/bytesalt/htmlcoin-explorer
 ```
 
 This will create a directory with configuration files for your node and install the necessary dependencies. For more information about (and developing) services, please see the [Service Documentation](docs/services.md).
@@ -27,8 +27,8 @@ This will create a directory with configuration files for your node and install 
 
 There are several add-on services available to extend the functionality of HTMLCOINCORE:
 
-- [HTMLCOIN Insight API](https://github.com/HTMLCOIN/htmlcoin-api)
-- [HTMLCOIN Explorer](https://github.com/HTMLCOIN/htmlcoin-explorer)
+- [HTMLCOIN Insight API](https://github.com/bytesalt/htmlcoin-api)
+- [HTMLCOIN Explorer](https://github.com/bytesalt/htmlcoin-explorer)
 
 ## Contributing
 
