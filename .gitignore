@@ -3,6 +3,7 @@ node_modules/*
 coverage/*
 .lock-wscript
 *.swp
+package-lock.json
 *.Makefile
 *.target.gyp.mk
 *.node
@@ -28,3 +29,9 @@ bin/SHA256SUMS.asc
 regtest/data/node1/regtest
 regtest/data/node2/regtest
 regtest/data/node3/regtest
+bin/htmlcoin-2.5.0-linux64.tar.gz
+bin/htmlcoin-cli
+bin/htmlcoind
+bin/htmlcoin-qt
+bin/htmlcoin-tx
+bin/htmlcoin-wallet
