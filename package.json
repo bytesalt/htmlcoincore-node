@@ -4,10 +4,10 @@
   "author": "HTMLCOIN <support@htmlcoin.com>",
   "version": "1.0.1",
   "main": "./index.js",
-  "repository": "https://github.com/HTMLCOIN/htmlcoincore-node.git",
-  "homepage": "https://github.com/HTMLCOIN/htmlcoincore-node",
+  "repository": "https://github.com/bytesalt/htmlcoincore-node.git",
+  "homepage": "https://github.com/bytesalt/htmlcoincore-node",
   "bugs": {
-    "url": "https://github.com/HTMLCOIN/htmlcoincore-node/issues"
+    "url": "https://github.com/bytesalt/htmlcoincore-node/issues"
   },
   "contributors": [],
   "bin": {
@@ -26,8 +26,8 @@
   ],
   "dependencies": {
     "async": "^3.2.0",
-    "htmlcoind-rpc": "git://github.com/HTMLCOIN/htmlcoind-rpc.git",
-    "htmlcoin-lib": "git://github.com/HTMLCOIN/htmlcoin-lib.git#master",
+    "htmlcoind-rpc": "git://github.com/bytesalt/htmlcoind-rpc.git",
+    "htmlcoin-lib": "git://github.com/bytesalt/htmlcoin-lib.git#master",
     "bitcore-lib": "^8.25.7",
     "body-parser": "^1.16.0",
     "colors": "^1.4.0",
