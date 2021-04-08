@@ -1,0 +1,10 @@
+{
+  "description": "HTMLCOIN",
+  "repository": "https://github.com/bytesalt/htmlcoincore-node",
+  "license": "MIT",
+  "readme": "README.md",
+  "dependencies": {
+    "htmlcoin-lib": "git://github.com/bytesalt/htmlcoin-lib.git#master",
+    "htmlcoincore-node": "git://github.com/bytesalt/htmlcoincore-node.git"
+  }
+}

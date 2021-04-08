@@ -1,0 +1,16 @@
+{
+  "network": "livenet",
+  "port": 3001,
+  "services": [
+    "htmlcoind",
+    "web"
+  ],
+  "servicesConfig": {
+    "htmlcoind": {
+      "spawn": {
+        "datadir": "./data",
+        "exec": "/des/htmlcoincore-node/bin/htmlcoind"
+      }
+    }
+  }
+}
